@@ -21,5 +21,6 @@ LICENSE [MIT](./license.md)
 10. [GIT Pull](pull.md)
 11. [GIT Push](push.md)
 12. [GIT Status](status.md)
+13. [Заключение](conclusion.md)
 ---
 
